@@ -8,7 +8,7 @@
     "min_level_db": -100,
     "ref_level_db": 20,
     "hidden_size": 128,
-    "embedding_size": 256,
+    "embedding_size": 512,
     "min_mel_freq": null,
     "max_mel_freq": null,
     "text_cleaner": "english_cleaners",
@@ -18,7 +18,7 @@
     "lr_patience": 5,
     "lr_decay": 0.5,
     "batch_size": 2,
-    "r": 5,
+    "r": 1,
     "mk": 1.0,
     "priority_freq": false,
 
